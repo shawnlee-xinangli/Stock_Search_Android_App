@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Stocks</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="favourite_button">Favourite</string>
+    <string name="no_favourite_button">Not Favourite</string>
+
+</resources>

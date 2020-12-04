@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_search"
+        android:icon="@drawable/ic_search_black_24dp"
+        android:title="Search"
+        app:showAsAction="always|collapseActionView"
+        app:actionViewClass="android.widget.SearchView" />
+<!--    <style android:name="SearchViewStyle" android:parent="Widget.AppCompat.SearchView">-->
+<!--        &lt;!&ndash; Gets rid of the search icon &ndash;&gt;-->
+<!--        <item android:name="searchIcon">@drawable/ic_search</item>-->
+<!--        &lt;!&ndash; Gets rid of the "underline" in the text &ndash;&gt;-->
+<!--        <item android:name="queryBackground">@color/white</item>-->
+<!--        &lt;!&ndash; Gets rid of the search icon when the SearchView is expanded &ndash;&gt;-->
+<!--        <item android:name="searchHintIcon">@null</item>-->
+<!--        &lt;!&ndash; The hint text that appears when the user has not typed anything &ndash;&gt;-->
+<!--        <item android:name="queryHint">@string/search_hint</item>-->
+<!--    </style>-->
+
+
+</menu>
